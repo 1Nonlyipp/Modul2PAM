@@ -1,0 +1,1 @@
+untuk output dari halaman profile terletak pada res -> drawable -> hasil_screenshot.png
